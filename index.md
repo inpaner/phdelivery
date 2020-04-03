@@ -1,6 +1,7 @@
 # Metro Manila Delivery Schedule
 As of 8:54 PM, April 3, 2020.
 
+[Sources](./sources.md)
 
 Store | Open | Close | GrabFood | Foodpanda | Web | Phone | Branches
 --- | --- | --- | --- | --- | --- | --- | --- |
